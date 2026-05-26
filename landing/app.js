@@ -44,7 +44,7 @@ const translations = {
       'Open Chrome Extensions',
       'Enable Developer Mode',
       'Click Load unpacked',
-      'Select the project's dist folder',
+      'Select the extension folder',
       'Start capturing knowledge',
     ],
 
@@ -101,7 +101,7 @@ const translations = {
       'بخش Chrome Extensions را باز کنید',
       'Developer Mode را فعال کنید',
       'روی Load unpacked کلیک کنید',
-      'پوشه dist پروژه را انتخاب کنید',
+      'پوشه افزونه را انتخاب کنید',
       'شروع به ثبت دانش کنید',
     ],
 
